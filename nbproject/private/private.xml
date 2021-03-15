@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/src/java/sample/notification/NotificationBLO.java</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/web/notification.jsp</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/src/java/sample/account/controller/LoginController.java</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/web/login.jsp</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/src/java/sample/filter/AuthenFilter.java</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/src/java/sample/entity/UserPost.java</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/web/css/main.min.css</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/web/user_header.jsp</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/src/java/sample/comment/controller/PostCommentController.java</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/src/java/sample/emotion/EmotionBLO.java</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/web/create_article_page.jsp</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/web/creat_user_account.jsp</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/src/java/sample/article/controller/ViewArticleDetailController.java</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/src/java/sample/account/controller/VerifyAccountController.java</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/src/java/sample/account/UsersBLO.java</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/web/article_detail.jsp</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/src/java/sample/jpa_controller/ArticlesJpaController.java</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/src/java/sample/article/ArticlesBLO.java</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/src/java/sample/utils/EmailUtils.java</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/src/java/sample/article/controller/PostArticleController.java</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/src/java/sample/emotion/controller/ReactController.java</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/src/java/sample/article/controller/DeleteArticleController.java</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/src/java/sample/account/controller/CreateUserAccountController.java</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/src/java/sample/controller/MainController.java</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/src/java/sample/article/controller/ViewHomePageController.java</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/src/java/sample/account/controller/ResendVerifyCodeController.java</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/src/java/sample/comment/CommentBLO.java</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/src/java/sample/notification/controller/ClickNotificationController.java</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/web/user_footer.jsp</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/src/java/sample/comment/controller/DeleteCommentController.java</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/src/java/sample/jpa_controller/UsersJpaController.java</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/src/java/sample/notification/controller/ViewNotificationController.java</file>
+            <file>file:/C:/Users/saost/Desktop/LAB231/LAB%201/SocialNetworkMini/web/home_page.jsp</file>
+        </group>
+    </open-files>
+</project-private>
